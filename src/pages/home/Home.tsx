@@ -3,9 +3,9 @@ const Home = (): JSX.Element => {
   return (
     <>
       <PageMainHeader />
-      <div className='layout mt-20'>
-        <div className='welcome-section h-screen'>
-          <div className='text-xl text-center'>{'Welcome'}</div>
+      <div className='layout mt-14 bg-stone-950'>
+        <div className='welcome-section h-screen bg-stone-950'>
+          <div className='text-xl text-center text-white'>{'Welcome'}</div>
         </div>
       </div>
     </>

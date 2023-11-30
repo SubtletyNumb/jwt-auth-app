@@ -14,8 +14,8 @@ const PageMainHeader = (): JSX.Element => {
   return (
     <>
       <header
-        className='bg-white text-black text-center absolute
-       top-0 left-0 right-0 h-14 flex flex-row justify-between items-center border-b'
+        className=' bg-black text-center absolute
+       top-0 left-0 right-0 h-14 flex flex-row justify-between items-center border-gray-950 text-white'
       >
         <div className='ml-2 text-xl'>Home</div>
         <nav className='mr-4 flex justify-between'>
